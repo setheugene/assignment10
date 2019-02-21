@@ -1,0 +1,27 @@
+{
+  "name": "assignment10",
+  "version": "1.0.0",
+  "description": "bamazon",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setheugene/assignment10.git"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "seth eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setheugene/assignment10/issues"
+  },
+  "homepage": "https://github.com/setheugene/assignment10#readme"
+}
